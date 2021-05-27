@@ -1,8 +1,13 @@
 # LineApp
 Example Project
 
+!!!
 The ZIP file contains the full project, importable from Eclipse IDE.
+---
 Anyway, you can also download html, css and js files and group them into a folder to see the work.
+---
+!!!
+
 
 We have to use NodeJS as a backend stack and there aren't restrictions with packages and frontend side. The page does not requires authentication systems.
 To create the project, I wanted to use the Eclipse IDE. 
