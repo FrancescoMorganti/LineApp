@@ -13,7 +13,7 @@ We have to use NodeJS as a backend stack and there aren't restrictions with pack
 To create the project, I wanted to use the Eclipse IDE. 
 Let's create a new Dynamic Web Project, clicking with the right mouse button on the Project Explorer. Click on New>Dynamic Web Project. If you don't have it, click New>Other>Web>Dynamic Web Project.
 Use a name that is linear with respect to what you are doing. On this case, I wanted to call it LineApp.
-You have to use a web server. A month ago, I have installed Apache Tomcat v8.5 on my PC, so I can use it as a "Target Runtime". There are also other version of Apache Tomcat, for example the v10.0, but I prefered using the v8.5 because in my opinion it is more stable and reliable. I wanted to use the 3.1 Dynamic Web module version.
+You have to use a web server. A month ago, I have installed Apache Tomcat v8.5 on my PC, so I can use it as a "Target Runtime". There are also other versions of Apache Tomcat, for example the v10.0 (that is an updated version), but I prefered to use the v8.5 because in my opinion it is more stable and reliable. I wanted to use the 3.1 Dynamic Web module version.
 Now click on Finish. Your project has been created.
 Navigating into the project, you will be able to see the "src" folder, and into it there is the "webapp" folder that contains META-INF and WEB-INF. On the webapp folder (and not into META/WEB INF) let's create our homepage. Obviously, the homepage must have the index name. So create a New HTML file (right mouse button on "webapp" folder, New> HTML file) and call it index.html
 
