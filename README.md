@@ -1,8 +1,10 @@
 # LineApp
 Example Project
 
+The ZIP file contains the full project, importable from Eclipse IDE.
+Anyway, you can also download html, css and js files and group them into a folder to see the work.
 
-I have to use NodeJS as a backend stack and there aren't restrictions with packages and frontend side. The page does not requires authentication systems.
+We have to use NodeJS as a backend stack and there aren't restrictions with packages and frontend side. The page does not requires authentication systems.
 To create the project, I wanted to use the Eclipse IDE. 
 Let's create a new Dynamic Web Project, clicking with the right mouse button on the Project Explorer. Click on New>Dynamic Web Project. If you don't have it, click New>Other>Web>Dynamic Web Project.
 Use a name that is linear with respect to what you are doing. On this case, I wanted to call it LineApp.
@@ -28,4 +30,5 @@ So let's create a counter on the button light/dark mode.
 The counter must be saved into a repository, I have used the localStorage, because it updates automatically the counter everytime you reach the website and turn on the dark mode.
 Start the project with "Run" on Eclipse. If it asks you to "Run on Server", click on it and click Finish. Tomcat will start. 
 Obviously, we have created it in localhost, so reach the " http://localhost:8080/LineApp/index.html " and see your fantastic page. As you can see, there is the button that allows you to turn on and off the dark mode. You can try to click it some times to switch from light to dark. Now, if you click on "show statistics" button, you will see how much times the dark mode has been actived. 
-  
+
+That's it.
