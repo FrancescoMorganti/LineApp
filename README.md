@@ -2,7 +2,7 @@
 Example Project
 
 !!!
-The ZIP file contains the full project, importable from Eclipse IDE.
+The ZIP file with the name "LineApp Eclipse Project" contains the full project, importable from Eclipse IDE.
 ---
 Anyway, you can also download html, css and js files and group them into a folder to see the work.
 ---
