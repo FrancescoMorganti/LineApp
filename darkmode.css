@@ -14,6 +14,7 @@ html {
 	 --bg-panel: #100f2c;
 	 --color-headings: #fff;
 	 --color-text: #fff;
+	 
 }
  body {
 	 background-color: var(--bg);
@@ -39,6 +40,7 @@ html {
 	 line-height: 1.8em;
 	 margin-top: 2em;
 }
+
  input[type=checkbox] {
 	 height: 0;
 	 width: 0;
@@ -75,6 +77,8 @@ html {
  label:active:after {
 	 width: 45px;
 }
+
+
  html.transition, html.transition *, html.transition *:before, html.transition *:after {
 	 transition: all 750ms !important;
 	 transition-delay: 0 !important;
