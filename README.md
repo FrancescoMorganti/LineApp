@@ -37,3 +37,4 @@ Start the project with "Run" on Eclipse. If it asks you to "Run on Server", clic
 Obviously, we have created it in localhost, so reach the " http://localhost:8080/LineApp/index.html " and see your fantastic page. As you can see, there is the button that allows you to turn on and off the dark mode. You can try to click it some times to switch from light to dark. Now, if you click on "show statistics" button, you will see how much times the dark mode has been actived. 
 
 That's it.
+If you want to see the work into codepen.io, you can check this link: https://codepen.io/francesco-morganti/pen/qBrXxzq
