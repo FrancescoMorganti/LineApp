@@ -18,6 +18,8 @@ Now click on Finish. Your project has been created.
 Navigating into the project, you will be able to see the "src" folder, and into it there is the "webapp" folder that contains META-INF and WEB-INF. On the webapp folder (and not into META/WEB INF) let's create our homepage. Obviously, the homepage must have the index name. So create a New HTML file (right mouse button on "webapp" folder, New> HTML file) and call it index.html
 
 To integrate the CSS and the JS, we have to add two lines into the HTML code, preferably into the head. For the CSS, we can use the link/href, like this: 
+
+
 link rel="stylesheet" href="yourname.css" with < before link and > at the end of the line.
 On this case, I have called the css file "darkmode.css". 
   
